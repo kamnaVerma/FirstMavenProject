@@ -1,0 +1,40 @@
+2019-05-30 17:21:08,273 +0530 [main] INFO  (BaseClass.java:30) - Url Opened
+2019-05-30 17:21:08,570 +0530 [main] INFO  (LoginPageTestCase.java:16) - Username Entered
+2019-05-30 17:21:08,669 +0530 [main] INFO  (LoginPageTestCase.java:18) - Password Entered
+2019-05-30 17:21:09,595 +0530 [main] INFO  (LoginPageTestCase.java:23) - Login Test Opened
+2019-05-31 12:38:45,571 +0530 [main] INFO  (BaseClass.java:33) - Url Opened
+2019-05-31 12:38:45,776 +0530 [main] INFO  (LoginPageTestCase.java:16) - Username Entered
+2019-05-31 12:38:45,856 +0530 [main] INFO  (LoginPageTestCase.java:18) - Password Entered
+2019-05-31 12:38:49,572 +0530 [main] INFO  (LoginPageTestCase.java:23) - Login Test Opened
+2019-05-31 12:39:21,312 +0530 [main] INFO  (BaseClass.java:33) - Url Opened
+2019-05-31 12:39:21,445 +0530 [main] INFO  (LoginPageTestCase.java:16) - Username Entered
+2019-05-31 12:39:21,514 +0530 [main] INFO  (LoginPageTestCase.java:18) - Password Entered
+2019-05-31 12:39:25,334 +0530 [main] INFO  (LoginPageTestCase.java:23) - Login Test Opened
+2019-05-31 14:44:40,479 +0530 [main] INFO  (BaseClass.java:47) - Url Opened
+2019-05-31 14:44:40,638 +0530 [main] INFO  (LoginPageTestCase.java:16) - Username Entered
+2019-05-31 14:44:40,714 +0530 [main] INFO  (LoginPageTestCase.java:18) - Password Entered
+2019-05-31 14:44:42,373 +0530 [main] INFO  (LoginPageTestCase.java:23) - Login Test Opened
+2019-05-31 15:59:11,786 +0530 [main] INFO  (BaseClass.java:47) - Url Opened
+2019-05-31 15:59:13,507 +0530 [main] INFO  (LoginPageTestCase.java:16) - Username Entered
+2019-05-31 15:59:13,601 +0530 [main] INFO  (LoginPageTestCase.java:18) - Password Entered
+2019-05-31 15:59:20,846 +0530 [main] INFO  (LoginPageTestCase.java:23) - Login Test Opened
+2019-06-03 12:28:35,599 +0530 [main] INFO  (BaseClass.java:52) - Url Opened
+2019-06-03 12:28:35,787 +0530 [main] INFO  (LoginPageTestCase.java:19) - Username Entered
+2019-06-03 12:28:35,872 +0530 [main] INFO  (LoginPageTestCase.java:21) - Password Entered
+2019-06-03 12:28:37,504 +0530 [main] INFO  (LoginPageTestCase.java:26) - Login Test Opened
+2019-06-04 12:17:44,189 +0530 [main] INFO  (BaseClass.java:52) - Url Opened
+2019-06-04 12:17:44,416 +0530 [main] INFO  (LoginPageTestCase.java:19) - Username Entered
+2019-06-04 12:17:44,477 +0530 [main] INFO  (LoginPageTestCase.java:21) - Password Entered
+2019-06-04 12:17:46,325 +0530 [main] INFO  (LoginPageTestCase.java:26) - Login Test Opened
+2019-06-04 12:23:22,060 +0530 [main] INFO  (BaseClass.java:54) - Url Opened
+2019-06-04 12:23:22,403 +0530 [main] INFO  (LoginPageTestCase.java:19) - Username Entered
+2019-06-04 12:23:22,487 +0530 [main] INFO  (LoginPageTestCase.java:21) - Password Entered
+2019-06-04 12:23:24,434 +0530 [main] INFO  (LoginPageTestCase.java:26) - Login Test Opened
+2019-06-04 12:29:21,757 +0530 [main] INFO  (BaseClass.java:54) - Url Opened
+2019-06-04 12:29:21,916 +0530 [main] INFO  (LoginPageTestCase.java:19) - Username Entered
+2019-06-04 12:29:21,985 +0530 [main] INFO  (LoginPageTestCase.java:21) - Password Entered
+2019-06-04 12:29:25,802 +0530 [main] INFO  (LoginPageTestCase.java:26) - Login Test Opened
+2019-06-04 12:30:35,367 +0530 [main] INFO  (BaseClass.java:54) - Url Opened
+2019-06-04 12:30:35,526 +0530 [main] INFO  (LoginPageTestCase.java:19) - Username Entered
+2019-06-04 12:30:35,598 +0530 [main] INFO  (LoginPageTestCase.java:21) - Password Entered
+2019-06-04 12:30:37,286 +0530 [main] INFO  (LoginPageTestCase.java:26) - Login Test Opened

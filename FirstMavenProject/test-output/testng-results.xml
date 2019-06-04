@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19426" started-at="2019-06-04T06:47:27Z" finished-at="2019-06-04T06:47:47Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="19426" started-at="2019-06-04T06:47:27Z" finished-at="2019-06-04T06:47:47Z">
+      <class name="com.firstproject.testCases.LoginPageTestCase">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.firstproject.testCases.LoginPageTestCase@5f2108b5]" name="setUp" is-config="true" duration-ms="16528" started-at="2019-06-04T12:17:27Z" finished-at="2019-06-04T12:17:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTC()[pri:0, instance:com.firstproject.testCases.LoginPageTestCase@5f2108b5]" name="LoginTC" duration-ms="2115" started-at="2019-06-04T12:17:44Z" finished-at="2019-06-04T12:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTC -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.firstproject.testCases.LoginPageTestCase@5f2108b5]" name="tearDown" is-config="true" duration-ms="754" started-at="2019-06-04T12:17:46Z" finished-at="2019-06-04T12:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.firstproject.testCases.LoginPageTestCase -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
