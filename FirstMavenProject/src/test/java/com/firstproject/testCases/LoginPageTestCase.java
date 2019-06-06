@@ -11,7 +11,7 @@ import com.firstproject.pageObjects.LoginPageObject;
 public class LoginPageTestCase extends BaseClass
 {
 	@Test
-	public void LoginTC() throws IOException 
+	public void LoginTC_CorrectUN_PWD() throws IOException 
 	{
 		LoginPageObject lp = new LoginPageObject(driver);
 				
@@ -21,17 +21,19 @@ public class LoginPageTestCase extends BaseClass
 		logger.info("Password Entered");
 		lp.clickLogin();
 		
-		if (driver.getTitle().equals("OrangeHRM")){
+		if (driver.getCurrentUrl().equals("https://opensource-demo.orangehrmlive.com/index.php/dashboard")){
 			Assert.assertTrue(true);
-			logger.info("Login Test Opened");
+			logger.info("Login Test Successful - Positive TC");
+			
 		}
 		else
 		{
-			BaseClass.captureScreenshot(driver,"LoginTC");
+			logger.info("Enter else block after test failed");
+			BaseClass.captureScreenshot(driver,"LoginTC_CorrectUN_PWD");
 			Assert.assertTrue(false);
 			logger.info("Login Test Failed");
 			
-		}
+		}		
 	}
 
 }

@@ -6,8 +6,8 @@
       <class name="com.firstproject.testCases.LoginPageTestCase">
         <methods>
           <include name="tearDown"/>
+          <include name="LoginTC_CorrectUN_PWD"/>
           <include name="setUp"/>
-          <include name="LoginTC"/>
         </methods>
       </class> <!-- com.firstproject.testCases.LoginPageTestCase -->
     </classes>
